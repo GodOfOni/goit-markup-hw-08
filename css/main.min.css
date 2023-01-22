@@ -321,12 +321,12 @@ img {
       from(rgba(47, 48, 58, 0.4)),
       to(rgba(47, 48, 58, 0.4))
     ),
-    url(../images/mobile/background-mobile.jpg);
+    url(../images/Header.jpg);
   background-image: linear-gradient(
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(../images/mobile/background-mobile.jpg);
+    url(../images/Header.jpg);
   background-position: center;
   background-repeat: no-repeat;
   padding: 0px;
@@ -343,12 +343,12 @@ img {
         from(rgba(47, 48, 58, 0.4)),
         to(rgba(47, 48, 58, 0.4))
       ),
-      url(../images/mobile/background-mobile@2px.jpg);
+      url(../images/Header.jpg);
     background-image: linear-gradient(
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../images/mobile/background-mobile@2px.jpg);
+      url(../images/Header.jpg);
   }
 }
 .hero__title {
@@ -378,12 +378,12 @@ img {
         from(rgba(47, 48, 58, 0.4)),
         to(rgba(47, 48, 58, 0.4))
       ),
-      url(../images/tablet/background-tablet.jpg);
+      url(../images/Header.jpg);
     background-image: linear-gradient(
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../images/tablet/background-tablet.jpg);
+      url(../images/Header.jpg);
   }
 }
 @media screen and (min-width: 768px) and (min-device-pixel-ratio: 2),
@@ -398,12 +398,12 @@ img {
         from(rgba(47, 48, 58, 0.4)),
         to(rgba(47, 48, 58, 0.4))
       ),
-      url(../images/tablet/background-tablet@2x.jpg);
+      url(../images/Header.jpg);
     background-image: linear-gradient(
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../images/tablet/background-tablet@2x.jpg);
+      url(../images/Header.jpg);
   }
   .hero__title {
     font-size: 26px;
@@ -422,7 +422,7 @@ img {
         from(rgba(47, 48, 58, 0.4)),
         to(rgba(47, 48, 58, 0.4))
       ),
-      url(../images/desktop/background.jpg);
+      url(../images/Header.jpg);
     background-image: linear-gradient(
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
