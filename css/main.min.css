@@ -950,7 +950,7 @@ img {
   .offer__image {
     display: block;
     width: 100%;
-    height: auto;
+    height: 294px;
   }
   .offer__description {
     width: 100%;
