@@ -1264,6 +1264,7 @@ img {
   text-decoration: none;
   color: #fff;
   font-style: normal;
+  padding-right: 15px;
 }
 .address__link--decoration {
   color: rgba(255, 255, 255, 0.6);
